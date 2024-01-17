@@ -1,0 +1,66 @@
+%PDF-1.5
+%    
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+/OpenAction 11 0 R
+/Lang (it-IT)
+>>
+endobj
+4 0 obj
+<<
+/Creator <FEFF005700720069007400650072>
+/Producer <FEFF004C0069006200720065004F0066006600690063006500200036002E0034>
+/CreationDate (D:20210113010342+01'00')
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Resources 5 0 R
+/MediaBox [0 0 595 841]
+/Kids [6 0 R]
+/Count 1
+>>
+endobj
+3 0 obj
+<<
+/Type /Action
+/S /JavaScript
+/JS (app.alert\("Hello"\);)
+>>
+endobj
+11 0 obj
+<<
+/Type /Action
+/S /JavaScript
+/JS (app.launchURL\("https://www.youtube.com/watch?v=8ybW48rKBME"\);)
+>>
+endobj
+xref
+0 14
+0000000000 65535 f
+0000000015 00000 n
+0000000274 00000 n
+0000000372 00000 n
+0000000096 00000 n
+0000000469 00000 n
+0000000524 00000 n
+0000000723 00000 n
+0000000755 00000 n
+0000000920 00000 n
+0000001157 00000 n
+0000001360 00000 n
+0000001562 00000 n
+0000001903 00000 n
+trailer
+<<
+/Size 14
+/Root 1 0 R
+/Info 4 0 R
+/ID [<CABCA81562426841A6546CF8EAB01A9D> <CABCA81562426841A6546CF8EAB01A9D>]
+>>
+startxref
+7279
+%%EOF
